@@ -1,0 +1,18 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\GANES\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\GANES\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.9.9 (Oracle Corporation Java 17.0.11)
+[debug] Load.defaultLoad until apply took 155.3277ms
+[debug]           Load.loadUnit: plugins took 92.296ms
+[debug]           Load.loadUnit: defsScala took 0.358ms
+[debug] [Loading] Scanning directory C:\Users\Public\Downloads\scalacheckout\project
+[debug]             Load.loadUnit: mkEval took 7.8147ms

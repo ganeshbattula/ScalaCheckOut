@@ -1,0 +1,4 @@
+[debug] [scalacheckout-test] Classpath dependencies List()
+[debug] [scalacheckout-test] Dependencies from configurations List(scalacheckout)
+[debug] Bloop wrote the configuration of project 'scalacheckout-test' to 'C:\Users\Public\Downloads\scalacheckout\.bloop\scalacheckout-test.json'
+[success] Generated .bloop\scalacheckout-test.json

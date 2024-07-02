@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(d16e6a31-3c93-4b67-87c6-2d7fee6088f6), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Public\Downloads\scalacheckout\target\scala-2.13\test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCheckoutTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Calculate total without offers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Calculate total with offers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 247 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 2 Jul 2024, 13:02:35[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
